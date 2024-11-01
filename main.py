@@ -8,6 +8,7 @@ the link on github so a local version of this repo can stay on your computer
 '''
 When you want to make a change, and commit and merge it to the main branch:
 
+Git status - see what changes you've made
 Create and checkout a new "branch" which represents your changes
 git checkout -b sreyo/button
 Tell git which files you changed and would like to "commit" to the repo
